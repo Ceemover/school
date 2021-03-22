@@ -20,7 +20,7 @@ static t_list	*ft_lstcopy(t_list *list)
 	head = NULL;
 	while (list && list->content)
 	{
-		if (!(new = ft_lstnew(list->content)))
+		if (!(new = ft_lstnew(ft_strdup(list->content))))
 		{
 			ft_lstclear(&head, free);
 			return (NULL);
