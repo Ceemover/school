@@ -1,0 +1,12 @@
+libft		112
+gnl		115
+printf		100
+netwhat		100
+server		100
+cub3D		109
+minishell	100
+services	100
+libasm		100
+CPP 00,01,02	100
+
+//add ft_strdup in export(?)
