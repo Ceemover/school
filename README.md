@@ -9,6 +9,6 @@ Code in C++ is much neater <br>
 4) ft_server (server)
 5) cub3D (raycasting project)
 6) ft_services (Kubernetes)
-7) minishell (functionally cut-down version of bash)
+7) minishell (functionally cut-down version of bash)<br>
 ----------------C++ lang---------------
 8)cpp (introductory functions)
