@@ -10,5 +10,5 @@ Code in C++ is much neater <br>
 5) cub3D (raycasting project)
 6) ft_services (Kubernetes)
 7) minishell (functionally cut-down version of bash)<br>
-----------------C++ lang---------------<br>
+------------C++ lang-----------------<br>
 8.cpp (introductory functions)
