@@ -11,4 +11,4 @@ Code in C++ is much neater <br>
 6) ft_services (Kubernetes)
 7) minishell (functionally cut-down version of bash)<br>
 ----------------C++ lang---------------<br>
-8)cpp (introductory functions)
+8.cpp (introductory functions)
